@@ -1,1 +1,1 @@
-# hw1horiseon
+This is my first homework assignment for  UNC's coding bootcamp. I believe I was able to refactor most if not all the coding to be more accesible. The only element I was not sure about needing to change was "<div class="hero"></div>".
